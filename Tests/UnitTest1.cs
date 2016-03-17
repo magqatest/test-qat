@@ -9,6 +9,12 @@ namespace Tests
         [TestMethod]
         public void TestMethod1( )
         {
+            //arrange
+
+            //act
+            
+            //assert
+            Assert.Fail();
         }
     }
 }
